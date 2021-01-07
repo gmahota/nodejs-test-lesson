@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-test-lesson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gmahota/nodejs-test-lesson.git",
+  "author": "Guimarães Mahota <guimaraesmahota@gmail.com>",
+  "license": "MIT"
+}
