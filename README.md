@@ -4,6 +4,9 @@
 
 `git ckeckout -b <nomebranch>`
 
+Para a instalação do projeto
+`yarn`
+
 Alteraçoes do projeto
 
 1 função matematica
@@ -11,5 +14,7 @@ Alteraçoes do projeto
 nome completp
 
 Por Fim fazer o 
+
+`node index.js`
 
 `git push`
